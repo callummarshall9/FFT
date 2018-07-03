@@ -18,4 +18,4 @@ Ensure SFML library and SDL2 library are installed. In the base directory run th
 # Usage
 
 In current working directory, run ./example
-Have song desired to analyse audio 
+Have song desired to analyse audio in base directory called output.wav.
