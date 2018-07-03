@@ -91,7 +91,7 @@ int main()
     stream.load(buffer);
     stream.play();
 		int window_height = 800;
-		sf::RenderWindow window(sf::VideoMode(1024, window_height), "My window");
+		sf::RenderWindow window(sf::VideoMode(1024, window_height), "FFT audio visualiser");
 
 		while (window.isOpen())
     {
